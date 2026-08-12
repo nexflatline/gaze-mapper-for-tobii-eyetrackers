@@ -1,0 +1,6 @@
+# Application dependencies (Tobii SDK is installed separately from Tobii AB).
+numpy
+opencv-python
+Pillow
+sounddevice
+obs-websocket-py
